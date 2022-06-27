@@ -1,6 +1,6 @@
 package com.baorun.handbook.a58.data
 
-import com.baorun.handbook.a55.R
+import com.baorun.handbook.a58.R
 import com.baorun.handbook.a58.App
 
 /**

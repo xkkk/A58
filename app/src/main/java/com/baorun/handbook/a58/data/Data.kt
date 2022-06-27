@@ -3,7 +3,7 @@ package com.baorun.handbook.a58.data
 import androidx.room.Entity
 import androidx.room.Ignore
 import androidx.room.PrimaryKey
-import com.baorun.handbook.a55.R
+import com.baorun.handbook.a58.R
 import com.baorun.handbook.a58.db.CollectEntity
 import com.baorun.handbook.a58.db.HistoryEntity
 
